@@ -11,8 +11,12 @@ class Program
         foreach (PlayingCard card in deck.DrawPile)
         {
             Console.WriteLine(card);
-
             Console.WriteLine($"Numerical value for card-value is {(int)card.Value}");
+
+            if (card.Value == CardValue.Ace && card.Suit == CardSuit.Spades)
+            {
+
+			}
         }
     }
 }
