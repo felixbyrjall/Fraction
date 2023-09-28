@@ -3,15 +3,14 @@ namespace Fraction
 {
 	public class Fraction
 	{
-
 		public Fraction(int numerator = 0, int denominator = 1)
 		{
 			Numerator = numerator;
 			Denominator = denominator;
 		}
 
-		int Numerator { get; set; }
-		int Denominator { get; set; }
+		public int Numerator { get; set; }
+		public int Denominator { get; set; }
 
 		public override string ToString()
 		{
