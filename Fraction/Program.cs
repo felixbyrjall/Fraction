@@ -13,7 +13,7 @@ public class Program
 		Console.WriteLine($"Fraction is {threeQuarter}");
 
         Fraction sum = oneHalf.Add(threeQuarter);
-        Fraction sum = Fraction.Add(oneHalf, threeQuarter);
+        //Fraction sum = Fraction.Add(oneHalf, threeQuarter);
 		//Fraction sum = oneHalf + threeQuarter;
 		Console.WriteLine($"Sum is: {sum}");
 

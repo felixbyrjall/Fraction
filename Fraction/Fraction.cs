@@ -3,6 +3,8 @@ namespace Fraction
 {
 	public class Fraction
 	{
+
+		#region Fields, Constructors
 		public Fraction(int numerator = 0, int denominator = 1)
 		{
 			Numerator = numerator;
@@ -12,10 +14,23 @@ namespace Fraction
 		public int Numerator { get; set; }
 		public int Denominator { get; set; }
 
+		#endregion
+
+
 		public override string ToString()
 		{
 			return $"{Numerator}/{Denominator}";
 		}
+
+		public override bool Equals(object? obj)
+		{
+			if (obj is Fraction other)
+			{
+				return Equals(other);
+			}
+			return false;
+		}
+
 
 		public Fraction Add(Fraction other) {
 			int newNumerator = Numerator * other.Denominator + Denominator * other.Numerator;
