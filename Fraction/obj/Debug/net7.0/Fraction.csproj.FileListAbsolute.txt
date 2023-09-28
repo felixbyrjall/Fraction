@@ -1,0 +1,15 @@
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/bin/Debug/net7.0/Fraction
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/bin/Debug/net7.0/Fraction.deps.json
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/bin/Debug/net7.0/Fraction.runtimeconfig.json
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/bin/Debug/net7.0/Fraction.dll
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/bin/Debug/net7.0/Fraction.pdb
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.csproj.AssemblyReference.cache
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.AssemblyInfoInputs.cache
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.AssemblyInfo.cs
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.csproj.CoreCompileInputs.cache
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.dll
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/refint/Fraction.dll
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.pdb
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/Fraction.genruntimeconfig.cache
+/Users/felixbyrjall/Library/CloudStorage/OneDrive-HøyskolenKristiania/f2023/PG3302_software_design/Fraction/Fraction/obj/Debug/net7.0/ref/Fraction.dll
