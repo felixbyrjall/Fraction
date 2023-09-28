@@ -31,6 +31,11 @@ namespace Fraction
 			int newDenominator = left.Denominator * right.Denominator;
 			return new(newNumerator, newDenominator);
 		}
+
+		public static Fraction operator +(Fraction left, Fraction right)
+		{
+			return Add(left, right);
+		}
 	}
 }
 
