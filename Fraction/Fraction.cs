@@ -41,6 +41,9 @@ namespace Fraction
 			return (Numerator * other.Denominator) == (Denominator * other.Numerator);
 		}
 
+		#region Add() functions
+
+
 		public Fraction Add(Fraction other) {
 			int newNumerator = Numerator * other.Denominator + Denominator * other.Numerator;
 			int newDenominator = Denominator * other.Denominator;
@@ -54,6 +57,7 @@ namespace Fraction
 			int newDenominator = left.Denominator * right.Denominator;
 			return new(newNumerator, newDenominator);
 		}
+		#endregion
 
 		public static Fraction operator +(Fraction left, Fraction right)
 		{
