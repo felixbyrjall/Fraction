@@ -3,8 +3,9 @@ namespace CardDeckExample
 {
 	public class UI
 	{
-		public UI()
+		public static void Welcome()
 		{
+			Console.WriteLine("Welcome to BlackJack");
 		}
 	}
 }
