@@ -5,6 +5,11 @@ class Program
 {
     static void Main(string[] args)
     {
+		UI.NameInput();
+		UI.Welcome();
+        
+
+        /*
         CardDeck deck = new();
 
         Console.WriteLine($"Number of cards is {deck.DrawPile.Count}");
@@ -19,7 +24,7 @@ class Program
                 // another comment
 			}
 
-        }
+        }*/
     }
 }
 
